@@ -1,0 +1,31 @@
+{
+  "name": "integralui-web-tabstrip",
+  "version": "20.2.1",
+  "description": "IntegralUI Web - TabStrip is a native Web Component that consists of multiple panels with tabs that share the same space.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lidorsystems/integralui-web-tabstrip.git"
+  },
+  "keywords": [
+    "components",
+    "integralui",
+    "tabstrip",
+    "tab",
+    "ui",
+    "web",
+    "web-components",
+    "javascript",
+    "angular",
+    "react",
+    "vue"
+  ],
+  "author": "Lidor Systems",
+  "license": "SEE LICENSE in LICENSE.md",
+  "homepage": "https://github.com/lidorsystems/integralui-web-tabstrip",
+  "bugs": {
+    "url": "https://github.com/lidorsystems/integralui-web-tabstrip/issues"
+  }
+}
