@@ -1,7 +1,7 @@
 {
   "name": "integralui-web-tabstrip",
-  "version": "20.2.1",
-  "description": "IntegralUI Web - TabStrip is a native Web Component that consists of multiple panels with tabs that share the same space.",
+  "version": "20.2",
+  "description": "IntegralUI Web Lite - TabStrip is a native Web Component that consists of multiple panels with tabs that share the same space.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
